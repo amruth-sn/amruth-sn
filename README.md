@@ -30,5 +30,4 @@ Here are some ideas to get you started:
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amruth-sn&layout=donut)
-
+![Top Langs](https://github-readmes.vercel.app/api/top-langs/?username=amruth-sn&layout=donut)
