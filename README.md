@@ -28,6 +28,3 @@ Here are some ideas to get you started:
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://amruthn.com)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/0xAmruth)
 
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readmes.vercel.app/api/top-langs/?username=amruth-sn&layout=donut)
