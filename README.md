@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Amruth Niranjan
+# amruth niranjan
 
-## 👨‍💻 About Me
+## me
 
-- 🎓 Computer Engineering @ Boston University
-- 🚀 Building [roomform.ai](https://www.roomform.ai)
+- 🎓 boston university 2025
+- 🚀 swe @ [santé](https://santehq.com/)
 
-## 🔗 Connect with me
+## links
 
 [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amruth@bu.edu)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amruthn/)
