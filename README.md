@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## me
 
 - 🎓 boston university 2025
-- 🚀 swe @ [santé](https://santehq.com/)
+- 🚀 swe @ [cartesian](https://cartesian.systems/)
 
 ## links
 
