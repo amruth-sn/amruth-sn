@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# amruth niranjan
+# Amruth Niranjan
 
-## me
+## About
 
 - 🎓 boston university 2025
 - 🚀 swe @ [cartesian](https://cartesian.systems/)
 
-## links
+## Contact
 
 [![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amruthsniranjan@gmail.com)
 [![linkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amruthn/)
